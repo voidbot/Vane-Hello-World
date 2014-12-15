@@ -2,8 +2,8 @@
 #- url: /hello
 #  match: regex
 
-client:
-- url: /
-  match: postregex
-  dir: web
+#client:
+#- url: /
+#  match: postregex
+#  dir: web
 
